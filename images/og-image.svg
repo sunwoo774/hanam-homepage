@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5B2C6F"/>
+      <stop offset="1" stop-color="#2E153F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1010" cy="150" r="230" fill="#6E3A85" opacity="0.5"/>
+  <circle cx="112" cy="182" r="34" fill="#B4E33D"/>
+  <svg x="96" y="166" width="32" height="32" viewBox="0 0 24 24">
+    <path d="M12 3c3 3.6 5.2 6.6 5.2 9.3a5.2 5.2 0 0 1-10.4 0C6.8 9.6 9 6.6 12 3Z" fill="#2E153F"/>
+  </svg>
+  <text x="80" y="300" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#ffffff">하남 한일윌로모터펌프</text>
+  <text x="80" y="360" font-family="Pretendard, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#B4E33D">지하수·배수펌프 출장수리</text>
+  <text x="80" y="420" font-family="Pretendard, -apple-system, sans-serif" font-size="22" fill="#DBC9E8">미사·풍산·덕풍 신도시부터 춘궁·교산·초이 외곽까지 · 당일 출장</text>
+  <text x="80" y="560" font-family="Pretendard, -apple-system, sans-serif" font-size="20" fill="#C6B2D5">파워펌프 서비스센터 · 010-4757-3396</text>
+</svg>
